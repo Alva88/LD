@@ -22,8 +22,7 @@ function ReturnFirstReplicateChar($str) {
                 break
             }            
         $tmpArray += $char  
-    }
-         
+    }         
 }
 $val = "abcddcbad"
 ReturnFirstReplicateChar($val)
